@@ -7,6 +7,10 @@ then search adxl345. You will see a lots of program. By now, count from top, the
 item is it. But ADXL345_HelloWord is for mbed board, not for Arduino. And it using SPI
 interface, not I2C interface.
 
+Wiring
+
+![Wiring](arduino_adxl345.png)
+
 Screenshot
 
 ![Screenshot](screenshot.png)
