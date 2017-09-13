@@ -8,7 +8,8 @@ item is it. But ADXL345_HelloWord is for mbed board, not for Arduino. And it usi
 interface, not I2C interface.
 
 Screenshot
-![Screenshot](screen_plot.jpeg)
+
+![Screenshot](screenshot.png)
 
 /**
 * @author Aaron Berk
