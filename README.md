@@ -9,11 +9,11 @@ interface, not I2C interface.
 
 Wiring
 
-![Wiring](arduino_adxl345.png)
+![Wiring](Documents/wiring.png)
 
 Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](Documents/screenshot.png)
 
 /**
 * @author Aaron Berk
